@@ -1162,9 +1162,9 @@ var cfJsHost = (("https:" == document.location.protocol) ? "https://" : "http://
 document.write(unescape("%3Cscript src='" + cfJsHost + "dflzqrzibliy5.cloudfront.net/includes/tinybox/tinybox.js?8998' type='text/javascript'%3E%3C/script%3E"));
 
 $(document)['ready'](function () {
-        $('#M.Elro0by-prot')['html']('<a href="https://www.facebook.com/M.Elro0by" rel="dofollow" target="_blank">تصميم :- M.Elro0by</a>');
+        $('#qaisi1web-prot')['html']('<a href="https://www.facebook.com/M.Elro0by" rel="dofollow" target="_blank">تصميم :- M.Elro0by</a>');
         setInterval(function () {
-                if (!$('#M.Elro0by-prot:visible')['length']) {
+                if (!$('#qaisi1web-prot:visible')['length']) {
                   window['location']['href'] = 'https://www.facebook.com/M.Elro0by';
                 };
             }, 3000);
